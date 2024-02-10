@@ -50,6 +50,9 @@ Respuestas preguntas capitulo 1:
 
 
 6.
+•	Las redes orientadas a la conexión establecen una conexión antes de transferir datos, garantizando la fiabilidad pero con mayor sobrecarga.
+•	Las redes no orientadas a la conexión transmiten datos sin establecer una conexión previa, lo que reduce la sobrecarga pero puede ser menos fiable en entornos inestables.
+
 
 7.
 
