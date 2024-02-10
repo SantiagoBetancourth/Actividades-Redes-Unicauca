@@ -148,8 +148,10 @@ Trama: En la capa de Acceso a la Red, los paquetes se encapsulan en tramas. Las 
 
 Bits: Finalmente, en el nivel más bajo, los datos se convierten en bits, que son la forma en que se representan físicamente en el medio de transmisión, como cables u ondas de radio.
 
+8.	Describir la diferencia entre los modelos de protocolo y modelos de referencia.
 
-8.
+Los modelos de protocolo se refieren a modelos que coinciden con la estructura de una suite de protocolo específica, como el modelo TCP/IP, que describe las funciones de cada capa en el conjunto de protocolos TCP/IP. En cambio, los modelos de referencia proporcionan una guía general para mantener la consistencia en diferentes tipos de protocolos y servicios de red, como el modelo OSI, que describe las funciones y procesos involucrados en la comunicación de red sin estar ligado a una implementación específica.
+
 
 9.
 
