@@ -133,7 +133,21 @@ Una Unidad de Datos del Protocolo (PDU) es la forma en que se denomina a una sec
 •	Bits: Medio físico
 
 
-7.
+7.	Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+Los protocolos en las comunicaciones de red son conjuntos de reglas que gobiernan el intercambio de datos entre dispositivos. El proceso de encapsulamiento de datos implica agregar información de control y direccionamiento a los datos en cada capa del modelo TCP/IP mientras descienden a través del stack de protocolos en el host de origen, y eliminar esta información en cada capa mientras ascienden a través del stack en el host de destino. Esta encapsulación asegura que los datos sean enviados de manera eficiente y lleguen al destino correcto.
+
+ 
+Datos de Aplicación: Esta es la capa más alta en el modelo TCP/IP. Aquí es donde residen los datos generados por la aplicación del usuario, como un mensaje de correo electrónico o una solicitud de página web. En esta capa, los datos están en un formato comprensible para la aplicación.
+
+Segmento: En la capa de Transporte, los datos de aplicación se dividen en segmentos. Estos segmentos incluyen información de control y de secuenciación para asegurar que los datos lleguen correctamente y en orden al destino. El protocolo comúnmente utilizado en esta capa es el Protocolo de Control de Transmisión (TCP).
+
+Paquete: En la capa de Internet, los segmentos se encapsulan en paquetes. Estos paquetes incluyen direcciones IP de origen y destino, así como información de enrutamiento. El Protocolo de Internet (IP) es el protocolo principal en esta capa.
+
+Trama: En la capa de Acceso a la Red, los paquetes se encapsulan en tramas. Las tramas incluyen direcciones de hardware, como las direcciones MAC, que se utilizan para dirigir los datos en una red local. Ejemplos de protocolos en esta capa son Ethernet o Wi-Fi.
+
+Bits: Finalmente, en el nivel más bajo, los datos se convierten en bits, que son la forma en que se representan físicamente en el medio de transmisión, como cables u ondas de radio.
+
 
 8.
 
