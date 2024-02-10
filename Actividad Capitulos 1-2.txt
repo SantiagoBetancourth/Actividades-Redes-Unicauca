@@ -77,8 +77,10 @@ Proveedores de Internet en Colombia:
 •	Nivel-2: UNE EPM Telecomunicaciones, Telmex Colombia.
 
 
-
 11.
+•	Los proveedores de Nivel-1 son fundamentales para la conectividad global, ya que intercambian tráfico directamente sin pasar por intermediarios, lo que mejora la velocidad y la fiabilidad de la conexión.
+•	Los proveedores de Nivel-2 son importantes para expandir el acceso a Internet a nivel local y regional, comprando conectividad a los proveedores de Nivel-1 y distribuyéndola a proveedores de Nivel-3 y usuarios finales.
+
 
 12.
 
