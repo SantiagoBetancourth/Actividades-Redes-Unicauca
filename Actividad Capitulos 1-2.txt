@@ -60,6 +60,9 @@ Respuestas preguntas capitulo 1:
 
 
 8.
+•	La calidad del servicio es crucial para garantizar un rendimiento óptimo de las aplicaciones y servicios en la red.
+•	Afecta directamente la experiencia del usuario, especialmente en aplicaciones sensibles a la latencia o que requieren ancho de banda garantizado
+
 
 9.
 
