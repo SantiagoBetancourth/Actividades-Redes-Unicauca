@@ -152,8 +152,26 @@ Bits: Finalmente, en el nivel más bajo, los datos se convierten en bits, que so
 
 Los modelos de protocolo se refieren a modelos que coinciden con la estructura de una suite de protocolo específica, como el modelo TCP/IP, que describe las funciones de cada capa en el conjunto de protocolos TCP/IP. En cambio, los modelos de referencia proporcionan una guía general para mantener la consistencia en diferentes tipos de protocolos y servicios de red, como el modelo OSI, que describe las funciones y procesos involucrados en la comunicación de red sin estar ligado a una implementación específica.
 
+9.	Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
 
-9.
+En el modelo TCP/IP, las capas y sus funciones son las siguientes:
+
+Capa de Aplicación: Proporciona servicios de red a las aplicaciones y usuarios finales.
+Capa de Transporte: Maneja la transferencia confiable de datos entre los hosts.
+Capa de Internet: Se encarga de la transmisión de datos a través de múltiples redes interconectadas.
+Capa de Acceso a la Red: Gestiona la transmisión física de datos en el medio y la conexión con la red física.
+
+En el modelo OSI, las siete capas y sus funciones son:
+
+Capa Física: Se encarga de la transmisión de datos a través del medio físico.
+Capa de Enlace de Datos: Gestiona la comunicación entre dispositivos adyacentes en la misma red.
+Capa de Red: Se encarga del enrutamiento de datos a través de múltiples redes.
+Capa de Transporte: Proporciona servicios de transporte extremo a extremo.
+Capa de Sesión: Establece, administra y finaliza sesiones entre aplicaciones en hosts en una red.
+Capa de Presentación: Se encarga de la representación de datos, codificación y compresión.
+Capa de Aplicación: Proporciona interfaces para aplicaciones de usuario y servicios de red.
+
+
 
 
 
