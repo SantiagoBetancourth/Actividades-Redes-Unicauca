@@ -6,14 +6,23 @@ Integrantes:
 Respuestas preguntas capitulo 1:
 
 1. 
-Revisar el correo electrónico.
-Navegar por redes sociales como Twitter, Facebook o Instagram.
-Realizar búsquedas en línea utilizando motores de búsqueda como Google.
-Ver videos en plataformas de streaming como YouTube.
-Realizar compras en línea en sitios web de comercio electrónico como Amazon.
+•	Revisar el correo electrónico.
+•	Navegar por redes sociales como Twitter, Facebook o Instagram.
+•	Realizar búsquedas en línea utilizando motores de búsqueda como Google.
+•	Ver videos en plataformas de streaming como YouTube.
+•	Realizar compras en línea en sitios web de comercio electrónico como Amazon.
 
 
 2.
+•	Ancho de banda disponible.
+•	Latencia de la red.
+•	Pérdida de paquetes.
+•	Jitter (variación en la latencia).
+•	Calidad de los equipos de red.
+•	Interferencia electromagnética.
+•	Capacidad de procesamiento de los dispositivos terminales.
+•	Congestión de la red.
+
 
 3.
 
