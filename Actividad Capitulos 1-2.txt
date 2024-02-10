@@ -89,7 +89,14 @@ Proveedores de Internet en Colombia:
 
 Respuestas preguntas capitulo 2:
 
-1.
+1.	Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas.
+
+La estructura de una red comprende varios elementos que trabajan juntos para facilitar comunicaciones exitosas. Estos elementos incluyen:
+Dispositivos finales: Estos son los puntos de inicio y destino de la comunicación en la red. Pueden ser computadoras, impresoras de red, teléfonos VoIP, cámaras de seguridad, dispositivos móviles, entre otros. Cada dispositivo final tiene una dirección única que lo identifica en la red.
+Dispositivos intermedios: Estos dispositivos son cruciales para facilitar el flujo de datos en la red. Incluyen hubs, switches, puntos de acceso inalámbricos, routers, servidores de comunicación, módems y firewalls. Los dispositivos intermedios no solo proporcionan conectividad entre los dispositivos finales, sino que también administran el flujo de datos y realizan funciones de enrutamiento, seguridad y gestión de redes.
+Medios de red: Estos son los canales físicos a través de los cuales se transmiten los datos entre los dispositivos. Los medios pueden ser hilos metálicos dentro de cables, fibras ópticas o transmisiones inalámbricas. La elección del medio adecuado depende de factores como la distancia de transmisión, el entorno, la velocidad de transmisión requerida y el costo.
+Servicios y procesos: Estos son programas de software que se ejecutan en los dispositivos conectados a la red. Los servicios de red proporcionan información en respuesta a solicitudes, como servicios de correo electrónico o hosting web. Los procesos son responsables de direccionar y trasladar mensajes a través de la red, así como de administrar el flujo de datos y realizar funciones de seguridad.
+
 
 2.
 
