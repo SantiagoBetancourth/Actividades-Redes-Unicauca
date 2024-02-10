@@ -43,6 +43,11 @@ Respuestas preguntas capitulo 1:
 
 
 5.
+•	Tolerante a fallas: Capacidad de una red para mantener la conectividad y el funcionamiento incluso en caso de fallos. Ejemplo: Redes de malla en las que cada nodo tiene múltiples rutas de conexión para evitar puntos únicos de falla. 
+•	Escalabilidad: Capacidad de la red para crecer y adaptarse fácilmente a nuevas demandas y usuarios. Ejemplo: Redes basadas en tecnologías como el protocolo IPv6 que permite un número mucho mayor de direcciones IP. 
+•	Calidad del servicio: Garantiza que los diferentes tipos de tráfico tengan prioridades adecuadas para satisfacer los requisitos de las aplicaciones. Ejemplo: Priorización de tráfico de voz sobre IP (VoIP) para garantizar una conversación clara y sin interrupciones. 
+•	Seguridad: Protección de la red y los datos contra accesos no autorizados y ataques maliciosos. Ejemplo: Implementación de firewalls y sistemas de detección de intrusiones para proteger la red contra amenazas externas.
+
 
 6.
 
