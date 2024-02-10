@@ -36,6 +36,11 @@ Respuestas preguntas capitulo 1:
 
 
 4.
+•	Los datos son información codificada que puede ser procesada y transmitida por sistemas informáticos. 
+•	Una red de datos es un conjunto de dispositivos interconectados que pueden comunicarse entre sí para compartir recursos y datos. 
+•	La arquitectura de red se refiere a la estructura y diseño de una red, incluyendo componentes, protocolos y topología. 
+•	Una red convergente es una infraestructura de red que combina voz, datos y video en una sola red para optimizar la eficiencia y reducir costos.
+
 
 5.
 
