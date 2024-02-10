@@ -25,6 +25,15 @@ Respuestas preguntas capitulo 1:
 
 
 3.
+•	Ancho de banda disponible.
+•	Latencia de la red.
+•	Pérdida de paquetes.
+•	Jitter (variación en la latencia).
+•	Calidad de los equipos de red.
+•	Interferencia electromagnética.
+•	Capacidad de procesamiento de los dispositivos terminales.
+•	Congestión de la red.
+
 
 4.
 
