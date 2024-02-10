@@ -65,6 +65,9 @@ Respuestas preguntas capitulo 1:
 
 
 9.
+•	Los proveedores de Internet de Nivel-1 tienen una infraestructura global y se conectan directamente entre sí, sin depender de otros proveedores para el tráfico IP.
+•	Los proveedores de Internet de Nivel-2 compran conectividad a los proveedores de Nivel-1 y venden acceso a Internet a proveedores de Nivel-3 y usuarios finales.
+
 
 10.
 
