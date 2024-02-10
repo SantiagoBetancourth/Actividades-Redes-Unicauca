@@ -110,7 +110,12 @@ INTERNET: Es la red de redes más conocida y ampliamente utilizada, accesible pa
 INTERNETWORK se refiere a la interconexión de múltiples redes, ya sean LAN, WAN u otras, y puede incluir tanto redes privadas como públicas. Puede ser gestionada por diversas organizaciones y puede tener diferentes niveles de acceso y control.
 INTERNET se refiere específicamente a la red global de redes interconectadas accesible para el público en general. Es una forma específica de INTERNETWORK y se caracteriza por su acceso abierto y su capacidad para conectar a millones de usuarios en todo el mundo.
 
-4.
+4.	 Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+
+Tarjeta de interfaz de red (NIC): Es un dispositivo instalado en una computadora u otro dispositivo host que proporciona la conexión física con la red. La NIC permite que el dispositivo se comunique a través de la red y puede conectarse directamente al medio de transmisión, como un cable Ethernet.
+Puerto físico: Es un conector o toma en un dispositivo de red donde se conecta el medio de transmisión, como un cable Ethernet. Los puertos físicos permiten la conexión física entre dispositivos de red, como computadoras, routers, switches, etc.
+Interfaz de red: Son los puertos especializados en un dispositivo de internetworking, como un router, que se conectan a redes individuales. Los routers se utilizan para interconectar redes, y sus puertos se denominan interfaces de red. Estas interfaces permiten la comunicación entre diferentes redes al actuar como puntos de conexión entre ellas.
+
 
 5.
 
