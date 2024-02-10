@@ -117,7 +117,10 @@ Puerto físico: Es un conector o toma en un dispositivo de red donde se conecta 
 Interfaz de red: Son los puertos especializados en un dispositivo de internetworking, como un router, que se conectan a redes individuales. Los routers se utilizan para interconectar redes, y sus puertos se denominan interfaces de red. Estas interfaces permiten la comunicación entre diferentes redes al actuar como puntos de conexión entre ellas.
 
 
-5.
+5.	¿Por qué se dice que un protocolo es independiente de la tecnología?
+
+Un protocolo se considera independiente de la tecnología porque define las funciones necesarias para la comunicación de red sin especificar cómo deben implementarse esas funciones. Por ejemplo, un protocolo puede establecer que para indicar el final de una comunicación, el emisor debe permanecer en silencio durante dos segundos, pero no especifica cómo se debe lograr este silencio (por ejemplo, apagar el micrófono, detener la transmisión de datos, etc.). Esto permite que el protocolo pueda ser implementado en diferentes tecnologías o dispositivos, siempre y cuando cumplan con las funciones requeridas por el protocolo.
+
 
 6.
 
