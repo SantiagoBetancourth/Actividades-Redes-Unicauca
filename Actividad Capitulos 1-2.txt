@@ -105,7 +105,10 @@ WAN (Red de Área Amplia): Se utiliza cuando una organización tiene ubicaciones
 INTERNETWORK: Es una malla global de redes interconectadas que cubre las necesidades de comunicación humanas, donde cada red puede tener sus propias políticas y administración. Puede incluir redes públicas y privadas interconectadas.
 INTERNET: Es la red de redes más conocida y ampliamente utilizada, accesible para el público en general. Se compone de la interconexión de redes pertenecientes a proveedores de servicios de Internet (ISP) que proporcionan acceso a millones de usuarios en todo el mundo.
 
-3.
+3.	 ¿Cuál es la diferencia entre INTERNETWORK e INTERNET? 
+
+INTERNETWORK se refiere a la interconexión de múltiples redes, ya sean LAN, WAN u otras, y puede incluir tanto redes privadas como públicas. Puede ser gestionada por diversas organizaciones y puede tener diferentes niveles de acceso y control.
+INTERNET se refiere específicamente a la red global de redes interconectadas accesible para el público en general. Es una forma específica de INTERNETWORK y se caracteriza por su acceso abierto y su capacidad para conectar a millones de usuarios en todo el mundo.
 
 4.
 
