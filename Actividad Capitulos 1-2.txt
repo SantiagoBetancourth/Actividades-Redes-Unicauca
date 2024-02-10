@@ -97,8 +97,13 @@ Dispositivos intermedios: Estos dispositivos son cruciales para facilitar el flu
 Medios de red: Estos son los canales físicos a través de los cuales se transmiten los datos entre los dispositivos. Los medios pueden ser hilos metálicos dentro de cables, fibras ópticas o transmisiones inalámbricas. La elección del medio adecuado depende de factores como la distancia de transmisión, el entorno, la velocidad de transmisión requerida y el costo.
 Servicios y procesos: Estos son programas de software que se ejecutan en los dispositivos conectados a la red. Los servicios de red proporcionan información en respuesta a solicitudes, como servicios de correo electrónico o hosting web. Los procesos son responsables de direccionar y trasladar mensajes a través de la red, así como de administrar el flujo de datos y realizar funciones de seguridad.
 
+2.	Comparar y contrastar los siguientes términos:
 
-2.
+RED: Este término se refiere a cualquier conjunto de dispositivos interconectados que pueden comunicarse entre sí. Puede ser una red de área local (LAN), una red de área amplia (WAN), una intranet, o cualquier combinación de estas.  
+LAN (Red de Área Local): Es una red que cubre una única área geográfica, como una empresa, un campus o una región. Por lo general, está administrada por una organización única y proporciona servicios y aplicaciones a personas dentro de esa estructura organizacional. El control administrativo se implementa a nivel de red.
+WAN (Red de Área Amplia): Se utiliza cuando una organización tiene ubicaciones separadas por grandes distancias geográficas y necesita interconectar las LAN en esas ubicaciones. Las WAN se extienden a través de áreas geográficas más grandes y suelen ser gestionadas por proveedores de servicios de telecomunicaciones. Las organizaciones individuales alquilan conexiones a través de estos proveedores para conectar sus LAN separadas.
+INTERNETWORK: Es una malla global de redes interconectadas que cubre las necesidades de comunicación humanas, donde cada red puede tener sus propias políticas y administración. Puede incluir redes públicas y privadas interconectadas.
+INTERNET: Es la red de redes más conocida y ampliamente utilizada, accesible para el público en general. Se compone de la interconexión de redes pertenecientes a proveedores de servicios de Internet (ISP) que proporcionan acceso a millones de usuarios en todo el mundo.
 
 3.
 
