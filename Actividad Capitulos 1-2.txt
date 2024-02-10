@@ -72,6 +72,10 @@ Respuestas preguntas capitulo 1:
 10.
 •	Nivel-1: AT&T, Verizon, NTT Communications.
 •	Nivel-2: Level 3 Communications, Cogent Communications.
+Proveedores de Internet en Colombia:
+•	Nivel-1: No hay proveedores de nivel 1 en Colombia.
+•	Nivel-2: UNE EPM Telecomunicaciones, Telmex Colombia.
+
 
 
 11.
