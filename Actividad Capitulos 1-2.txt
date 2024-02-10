@@ -55,6 +55,9 @@ Respuestas preguntas capitulo 1:
 
 
 7.
+•	La calidad del servicio se refiere a la capacidad de una red para proporcionar diferentes niveles de servicio a diferentes tipos de tráfico.
+•	Se necesita una buena gestión del ancho de banda, priorización de tráfico y control de congestión para mantener una buena calidad de servicio para aplicaciones que requieren baja latencia, como VoIP o videoconferencia.
+
 
 8.
 
